@@ -1,0 +1,1000 @@
+./a.out
+gcc QuickSort_2way.c
+./a.out
+cd prog
+cd proj
+cd summer_problems
+cd phase2
+gcc QSort_2way.c
+./a.out
+gcc QSort_2way.c
+./a.out > Qsort2_r_rand.txt
+gcc QSort_2way.c
+./a.out > Qsort2_r_rand2.txt
+cd prog/proj/summer_problems
+cd phase2\
+cd phase2
+cd a\
+cd a
+touch grapher.c
+gcc grapher.c
+./a.out
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt >qs_2_r_rand.txt
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt >qs_2_r_rand.txt
+./a.out
+./a.out < Qsort2_r_rand.txt
+./a.out < Qsort3_a[0]_rand.txt
+./a.out
+gcc grapher.c
+./a.out
+gcc grapher.c
+./a.out
+gcc grapher.c
+./a.out
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt >qs_2_r_rand.txt
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt >qs_2_r_rand.txt
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt
+ssh sshekh@mathserver.cc.iitk.ac.in
+ssh sshekh@akash1.cc.iitk.ac.in
+ssh sshekh@mathserver.cc.iitk.ac.in
+exit
+python firewall.py
+touch prankvirus.txt
+vim prankvirus.txt
+vim abort_shutdown.BAT
+cd prog
+cd proj/summer_problems/phase2/a
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt
+gcc grapher.c
+./a.out < Qsort2_r_rand.txt
+gcc grapher.c
+gcc -o grapher1 grapher.c
+gcc -o graphe21 grapher.c
+gcc -o grapher2 grapher.c
+./grapher1 < Qsort2_r_rand.txt > qs_2_r_rnd1.txt
+gcc -o grapher1 grapher.c
+gcc -o grapher2 grapher.c
+./grapher1 < Qsort2_r_rand.txt > qs_2_r_rnd1.txt
+./grapher2 < Qsort2_r_rand.txt > qs_2_r_rnd2.txt
+./grapher1 < Qsort3_a[0]_rand.txt > qs_3_0_rnd1.txt
+./grapher2 < Qsort3_a[0]_rand.txt > qs_3_0_rnd2.txt
+gcc -o grapher1 grapher.c
+gcc -o grapher2 grapher.c
+touch grapher.m
+./grapher1 < Qsort2_r_rand.txt >qs2r_rnd1.txt
+./grapher2 < Qsort2_r_rand.txt >qs2r_rnd1.txt
+./grapher1 < Qsort2_r_rand.txt >qs2r_rnd1.txt
+./grapher2 < Qsort2_r_rand.txt >qs2r_rnd2.txt
+gcc -o grapher1 grapher.c
+gcc -o grapher2 grapher.c
+./grapher1 < Qsort2_r_rand.txt >qs2r_rnd1.txt
+./grapher2 < Qsort2_r_rand.txt >qs2r_rnd2.txt
+gcc -o grapher2 grapher.c
+./grapher1 < Qsort2_r_rand.txt >qs2r_rnd1.txt
+./grapher2 < Qsort2_r_rand.txt >qs2r_rnd2.txt
+python firewall.py
+python firewall.pyc
+cd /home/saurav
+ls
+python firewall.pyc
+cd prog/proj
+cd summer_problems/phase2/a
+./grapher1 <Qsort3_a[0]_rand.txt >qs30_rnd1.txt
+./grapher2 <Qsort3_a[0]_rand.txt >qs30_rnd2.txt
+./grapher1 <Qsort3_a[0]_rep.txt >qs30_rep1.txt
+./grapher2 <Qsort3_a[0]_sort.txt >qs30_rep2.txt
+gcc -o grapher2 grapher.c
+gcc -o grapher1 grapher.c
+./grapher1 <Qsort3_a[0]_sort.txt >qs30_sort1.txt
+./grapher2 <Qsort3_a[0]_sort.txt >qs30_sort2.txt
+gcc -o grapher1 grapher.c
+gcc -o grapher2 grapher.c
+touch plot.m
+cd ..
+gcc QuickSort_2_0.c
+./a.out > qs_2_0_rnd.txt
+gcc QuickSort_2_0.c
+./a.out > qs_2_0_rep.txt
+gcc QuickSort_2_0.c
+./a.out > qs_2_0_sort.txt
+gcc QuickSort_2_0.c
+./a.out > qs_2_0_sort.txt
+gcc QuickSort_2_0.c
+./a.out
+gcc QuickSort_2_0.c
+./a.out
+./a.out > qs_2_0_sort.txt
+gcc -o Grapher2 grapher.c
+cd a
+gcc -o Grapher2 grapher.c
+gcc -o Grapher1 grapher.c
+./grapher1 <Qsort2_a[0]_rand.txt >qs20_rnd1.txt
+./grapher2 <Qsort2_a[0]_rand.txt >qs20_rnd2.txt
+./grapher1 <Qsort2_a[0]_rep.txt >qs20_rep1.txt
+./grapher2 <Qsort2_a[0]_rep.txt >qs20_rep2.txt
+./Grapher1 <Qsort2_a[0]_sort.txt >qs20_sort1.txt
+./Grapher2 <Qsort2_a[0]_sort.txt >qs20_sort2.txt
+cd ..
+gcc QuickSort_2way.c
+./a.out
+gcc QuickSort_2way.c
+./a.out
+gcc QuickSort_2way.c
+./a.out
+gcc QuickSort_2way.c
+./a.out
+gcc QuickSort_2way.c
+./a.out
+gcc QuickSort_2way.c
+./a.out
+gcc QuickSort_2way.c
+./a.out
+gcc QuickSort_2way.c
+./a.out > sort_Qs_2_0.txt
+gcc QuickSort_2way.c
+./a.out > sort_Qs_2_0.txt
+gcc QuickSort_2way.c
+./a.out
+gcc qs.c
+./a.out
+gcc qs.c
+./a.out
+gcc qs.c
+./a.out
+cd prog
+cd Codechef
+cd codechef
+gedit TLG.c
+gcc TLG.c
+./a.out
+gcc TLG.c
+./a.out
+touch CLEANUP.c
+gcc qs.c
+./a.out
+vim lect.txt
+python firewall.pyc
+history
+sudo su
+. /usr/share/GNUstep/Makefiles/GNUstep.sh
+touch hello.m
+vim hello.m
+gobjc hello.m
+. /usr/share/GNUstep/Makefiles/GNUstep.sh
+gobjc
+sudo apt-get install gobjc
+gobjc
+man gobjc
+gcc `gnustep-config --objc-flags` -lgnustep-base hello.m -o hello
+vim hello.m
+gcc hello.m
+vim hello.m
+gcc hello.m
+. /usr/share/GNUstep/Makefiles/GNUstep.sh
+vim helloworld.m
+gcc helloworld.m
+./hello
+./a.out
+exit
+sudo apt-get install gnustep
+vi firewall.py
+vim objcbuild.sh
+vim hello.m
+./objectbuild.sh hello
+ls
+./objcbuild.sh hello
+chmod 744 objcbuild.sh
+./objcbuild.sh hello
+vi objcbuild.sh
+./objcbuild.sh hello
+suod su
+sudo su
+./usr/share/GNUstep/Makefiles/GNUstep.sh
+. /usr/share/GNUstep/Makefiles/GNUstep.sh
+./objcbuild.sh hello
+gnustep-config --objc-flags
+python firewall.pyc
+python fierwall.pyc
+python firewall.pyc
+pwd
+cd /media/saurav
+ls
+mount
+ls
+cd DATA
+cd softwares
+cd software
+dd if = en_windows_8_x64_dvd_915440.iso of = /dev/sdc1
+dd if=en_windows_8_x64_dvd_915440.iso of=/dev/sdc1
+unmount /dev/sdc1
+umount /dev/sdc1
+sudo su
+exit
+python
+sudo su
+exit
+sudo apt-get install python-pip
+pip install bst
+pip install rbtree
+python
+cd /media/saurav/OS
+cd users/DELL/Desktop/acads
+cd users/DELL/Desktop/acad
+cd users
+cd user
+ls
+cd Users/DELL/Desktop/acads
+cd Users/DELL/Desktop
+cd acad
+cd sem3_2012/DS/6-006-fall-2011
+cd contents/lecture-videos/lec06_code
+cd contents
+cd 6-006-fall-2011
+cd contents/lecture-videos/lec06_code
+python
+exit
+python firewall.pyc
+exit
+python firewall.pyc
+cd prog/rand_code
+touch kjo_theta_phi.c
+gedti kjo_theta_phi.c
+gedit kjo_theta_phi.c
+cd prog/rand_code
+gedit kjo_theta_phi.c
+gcc kjo_theta_phi.c
+./a.out
+gcc kjo_theta_phi.c
+./a.out
+gcc kjo_theta_phi.c
+gcc  -lm kjo_theta_phi.c
+gcc kjo_theta_phi.c
+./a.out
+gcc kjo_theta_phi.c
+./a.out
+gcc kjo_theta_phi.c
+gcc kjo_theta_phi.c -lm\
+gcc kjo_theta_phi.c -lm
+./a.out < ra.txt
+gcc kjo_theta_phi.c -lm
+./a.out < ra.txt
+gcc kjo_theta_phi.c -lm
+./a.out < ra.txt
+gcc kjo_theta_phi.c -lm
+./a.out < ra.txt
+dc prog/proj/Baswana_problems
+dc prog/proj/summer_problems
+cd prog/proj/summer_problems
+cd phase2/b
+g++ QuickSort_3way_random.cpp
+./a.out
+g++ QuickSort_2way_a[0]_pivot.cpp
+./a.out
+g++ QuickSort2_2way_rand_pivot.cpp
+./a.out
+g++ MergeSort.cpp
+./a.out
+g++ MergeSort.cpp
+./a.out
+ls
+vim hello.m
+exit
+g++ MergeSort2.cpp
+cd prog/proj/summer_problems/phase2/b
+g++ MergeSort2.cpp
+ls
+g++ MergeSort2.cpp
+./a.out
+g++ MergeSort2.cpp
+./a.out
+g++ MergeSort2.cpp
+./a.out
+g++ MergeSort2.cpp
+./a.out
+vim MergeSort2.cpp
+cd prog/proj/summer_problems/phase2/b
+vim MergeSort2.cpp
+vim QuickSort2.cpp
+g++ MergeSort2.cpp
+./a.out
+vim MergeSort2.cpp
+vim QuickSort2.cpp
+g++ MergeSort2.cpp
+./a.out
+g++ QuickSort2.cpp
+./a.out
+cd prog/proj/summer_problems/phase2/b
+vim MergeSort2.cpp
+g++ MergeSort2.cpp
+./a.out
+vim QuickSort2.cpp
+mount
+cd /media/saurav/
+ls
+cd DATA/software/Linux
+ls
+sudo dd if=boot-repair-disc.iso  of=/dev/sdb1
+sudo dd if=boot-repair-disk.iso  of=/dev/sdb1
+mount
+ls
+sudo dd if=ubuntu-13.04-desktop-amd64.iso  of=/dev/sdb1
+mount
+sudo dd if=ubuntu-13.04-desktop-amd64.iso  of=/dev/sdb1
+git
+clear
+git clone https://github.com/sshekh/Advanced-Audio_Equalizer.git
+cd Advanced-Audio_Equalizer
+git add .
+gitk --all
+sudo apt-get install gitk
+gitk --all
+git log --oneline --graph --decorate --all
+git add src
+cd src
+git add Final.java
+git add Pan.java
+cd ..
+sudo git add .
+git config core.autocrlf
+git config core.autocrlf = false
+git config core.autocrlf
+git config core.autocrlf false
+git config core.autocrlf
+git add .
+git commit git add .
+git add .
+git commit -m "added all files"
+git push -u origin master
+gitk --all
+python firewall.pyc
+cd /media/saurav
+ls
+cd DATA/prog/lang/Android
+git clone https://github.com/sshekh/Android-Joystick
+cd Android_Joystick
+git add .
+cd ..
+cd Android-Joystick
+cd ..
+cd ...
+cd .
+cd /media/saurav/DATA/prog/lang/Android/
+cd Android-Joystick
+git add .
+git commit auto.crlf false
+git config auto.crlf false
+git add .
+git config core.autocrlf false
+git add .
+git commit -m "added all files"
+git push -u origin master
+pyhton]
+history
+python firewall.pyc
+sudo apt-get update && sudo apt-get upgrade
+exit
+ping -c3 www.google.com
+wget ftp://ftp.gnu.org/pub/gnu/wget/wget-latest.tar.gz
+cd Downloads
+sudo du
+sudo su
+cd Downlaods
+cd Downloads
+tar xf Sublime\ Text\ 2.0.1\ x64.tar.bz2
+sudo mv Sublime\ Text\ 2 /opt/
+sudo ln -s /opt/Sublime\ Text\ 2/sublime_text /usr/bin/sublime
+sudo sublime /usr/share/applications/sublime.desktop
+sublime tlg.cpp
+ping -c3 www.google.com
+sudo add-apt-repository ppa:mystic-mirage/komodo-edit
+sudo apt-get update && sudo apt-get install komodo-edit
+exit
+ping -c3 www.google.com
+sudo apt-get install texstudio
+exit
+python firewall.pyc
+cd prog/lang/latex/LatexLectureForStudents
+vim tex-lecture.tex
+ls
+vim tex-lecture.tex
+man texshell
+man tex
+tex
+cd prog/lang/latex
+ls
+touch first.tecx
+man rename
+rename first.tecx first.tex
+vim first.tex
+exit
+Acrobat Reader
+cd prog/lang/R
+R
+date
+time
+ls /
+pwd
+ls /home/saurav/prog
+clear
+cd prog/lang/R/r-tutorial-src
+vim rtutor-pt1-c01.R
+cd ..
+R
+R
+exit
+cd prog/spoj
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+vim IOIPALIN.cpp
+vim
+g++ IOIPALIN.cpp
+cd prog/spoj
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+g++ IOIPALIN.cpp
+./a.out
+gcc IOIPALIN.c
+./a.out
+gcc IOIPALIN.c
+./a.out
+gcc IOIPALIN.c
+./a.out
+gcc IOIPALIN.c
+./a.out
+gcc IOIPALIN.c
+./a.out
+gcc IOIPALIN.c
+./a.out
+gcc IOIPALIN.c
+./a.out
+gcc IOIPALIN.c
+./a.out
+gcc IOIPALIN.c
+./a.out
+vim IOIPALIN.cpp
+cd prog/spoj
+touch HS09EQ.cpp
+gedit HS09EQ.cpp
+cd prog/spoj
+g++ HS09EQ.cpp
+./a.out
+g++ HS09EQ.cpp
+./a.out
+g++ HS09EQ.cpp
+./a.out
+g++ HS09EQ.cpp
+./a.out
+vim HS09EQ.cpp
+cd prog/spoj
+vim HS09EQ.cpp
+cd prog/rand_code
+gcc -o donut donut.c -lm
+cd ..
+cd codes
+vim Mandelbrot.py
+python Mandelbrot.py
+cd prog/spoj
+gcc BALIFE.c
+./a.out
+gcc BALIFE.c
+./a.out
+gcc BALIFE.c
+./a.out
+gcc BALIFE.c
+./a.out
+gcc BALIFE.c
+./a.out
+gcc BALIFE.c
+./a.out
+gcc BALIFE.c
+./a.out
+gcc BALIFE.c
+./a.out
+a.exe
+./a
+vim lcs.cpp
+vim diary
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update
+sudo apt-get install gdb
+sudo apt-get update && sudo apt-get upgrade
+python firewall.pyc
+sudo apt-get update && sudo apt-get upgrade
+gdb
+gfortran
+man gfortran
+man gdb
+cd /saurav/media
+cd /media/saurav
+ls
+mount OS
+ls
+cd SSHEKH@IITK
+cd mohit
+vim ins.sql
+vim new1.php
+vim dbscript.php
+ls
+vim dscript.php
+sudo apt-get update && sudo apt-get upgrade
+man mysql
+man xampp
+lampp start
+sudo lampp start
+lampp close
+sudo lampp stop
+mysql -u root -p -h 127.0.0.1
+cd prog
+mkdir codeforces
+cd codeforces
+touch 334B.c
+gedit 334B.c
+gcc 194B.c
+./a.out
+python firewall.pyc
+sudo apt-get install gpc
+man gpc
+man fpc
+sudo apt-get install fpc
+man fpc
+cd prog/codechef
+python firewall.pyc
+vim firewall.py
+git
+sudo do-release upgrade
+sudo do release upgrade
+sudo do-release-upgrade
+cd prog
+cd ..
+vim pwd.sh
+./pwd.sh
+sudo ./pwd.sh
+pwd.sh
+./pwd.sh
+ls
+pwd.sh
+./pwd.sh
+sudo ./pwd.sh
+vim pwd.sh
+sudo pwd
+pwd2
+/home/saurav/pwd2
+/home/saurav/pwd2.sh
+ls /home/saurav
+/home/saurav/pw2
+/home/saurav/pw2.sh
+sudo /home/saurav/pw2.sh
+cd Downloads
+cd ..
+emacs firewall.py
+vim firewall.py
+ping http://www.google.com
+ping www.google.com
+wget ftp.vim.org/pub/vim/doc/book/vimbook-OPL.pdf
+vim tutor
+vimtutor
+vimtutor
+vim
+pyhton firewall.pyc
+python firewall.pyc
+python firewall.py
+vim firewall.py
+nano
+sudo apt-get update && sudo apt-get upgrade
+exit
+vimtutor
+gvim firewall.py
+vim
+quit
+exit
+cd prog/lang/unix
+touch vimnote.txt
+vim vimnote.txt
+ls
+rm vimnote.txt
+ls
+cd ..
+gvim firewall.py
+exit
+vim
+vim fierwall.py
+pwd
+ls
+vim firewall.py
+exit
+python firewall.pyv
+python firewall.pyc
+vim
+exit
+vim
+sudo apt-get update && sudo apt-get upgrade
+exit
+vim firewall.py
+vimdiff firewall.py firewall.py.html
+vim
+vim
+vim
+exit
+vimlatex
+python firewall.py
+vim
+cd prog/codechef
+touch LELEMON.c
+vim LELEMON.c
+vim LELEMON.cpp\
+vim LELEMON.cpp
+exit
+g++ LELEMON.cpp
+./a.out
+g++ LELEMON.cpp
+./a.out
+g++ LELEMON.cpp
+./a.out
+g++ LELEMON.cpp
+./a.out
+g++ LELEMON.cpp
+./a.out
+g++ LELEMON.cpp
+./a.out
+g++ LELEMON.cpp
+./a.out
+exit
+cd prog/codechef
+vim LELEMON.cpp
+exit
+g++ LELEMON.cpp
+./a.out
+exit
+cd prog/codechef
+vim LELEMON.coo
+vim LELEMON.cpp
+gedit LELEMON.cpp
+exit
+dconf-editor
+sudo apt-get install dconf-tools
+exit
+sudo apt-add-repository ppa:kroq-gar78/ppa
+sudo apt-add-repository ppa:fs-icons-ubuntu/ppa
+ping www.google.com
+sudo apt-add-repository ppa:fs-icons-ubuntu/ppa
+sudo apt-get update
+sudo apt-get install -y fs-icons-ubuntu fs-icons-ubuntu-mono-dark fs-icons-ubuntu-mono-light
+sudo add-apt-repository ppa:ravefinity-project/ppa
+ping www.google.com
+exit
+python firewall.pyc
+sudo add-apt-repository ppa:ravefinity-project/ppa
+ping www.google.com
+sudo add-apt-repository ppa:ravefinity-project/ppa
+ping www.google.com
+sudo apt-get install humanity-colors
+sudo apt-get update
+ping www.google.com
+sudo add-apt-repository ppa:kroq-gar78/ppa
+sudo add-apt-repository ppa:fs-icons-ubuntu/ppa
+sudo apt-get update
+sudo apt-get install -y fs-icons-ubuntu fs-icons-ubuntu-mono-dark fs-icons-ubuntu-mono-light
+vimtutor
+vim
+cd prog
+cd lang/unix
+ssh newuser@services.cse.iitk.ac.in
+exit
+ls -l
+clear
+ls -R
+exit
+vim firewall.py
+cd prog
+vim fast_inv_square_root.c
+exit
+history
+cd prog/lang/unix
+echo Hello World
+echo Hello World echo Hello World!
+hello
+echo hello
+echo helloecho hello
+cat firewall.py.html
+cat /home/saurav/firewall.pyc
+mkdir newdir
+Rmdir
+man rmdir
+who
+finger
+mv firewall.py.html firewall-auth.html
+head fierwall-auth.html
+head firewall-auth.html
+pwd | ls
+pwd | echo
+echo 'ls'
+echo ls
+echo $ls
+echo '$ls'
+echo `ls`
+man tar
+touch 1.sh
+touch 2.sh
+tar -cf 1_2.tar 1.sh 2.sh
+tar -cf 12.tar *.sh
+tar -tvh archive.tar
+tar -tvf 1_2.tar
+ls -LR
+ls /home/saurav -R | wc -l &
+ls /home/saurav -R | wc -l 
+ps
+ps -A
+Top
+top
+clear
+kill <PID> && killall <PIDS>
+history
+touch mylist.tsst
+rm mylist.tsst
+touch mylist.tst
+rm mylist.tst
+touch mylist.txt
+vim mylist.txt
+cut -c 3-7 mylist
+cut -c 3-7 mylist.txt
+cut -d ';' -f 1
+cut -d ';' -f 1 mylist.txt
+cut -d ';' -f 2 mylist.txt
+tr '; ' '|*' < mylist.txt
+sort mylist.txt
+date
+date | cut -c 1-10
+USERNAME
+echo $USERNAME
+echo `$USERNAME`
+expr 6 + 3
+chmod 755 backup.sh
+touch backup.sh
+chmod 755 backup.sh
+./backup,sh
+./backup.sh
+sh backup
+sh backup.sh
+vim backup.sh
+history > commands.txt
+man php
+vim filename.php
+php -f filemane.php
+php -f filename.php
+vim listfiles.sh
+chmod 755 listfiles.sh
+./listfiles.sh
+cd prog/rand_code
+cd prog
+ls
+cd codes
+vim hp.c
+gcc hp.c
+./a.out
+gcc hp.c
+./a.out
+gcc hp.c
+./a.out
+touch b
+ls
+file b
+ghc -o hello hello.hs
+./hello
+ghc -02 --make A.hs -threaded -rtsopts
+ghc 02 --make A.hs -threaded -rtsopts
+ghc  --make A.hs -threaded -rtsopts
+ghc  --make A.hs -threaded
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get upgrade
+ghc
+ghci
+exit
+hugs
+exit
+cd ..
+cd lang/haskell
+mkdir myprac
+cd myprac
+vim hello.hs
+vim fac.hs
+vim A.hs
+exit
+cd prog/basics
+touch fibbochk.hs
+vim fibbochk.hs
+vim fibbochk.java
+man haskell
+ping www.google.com
+sudo su
+haskell
+man ghc
+hugs
+sudo apt-get install hugs
+man hugs\
+man hugs
+hugs
+cmatrix
+cowsay hi saurav
+ghci
+exit
+vim
+cd prog/lang/unix
+touch a
+vim a
+ls
+seq 2 3 9
+seq 2 5
+for f in `seq 2 3 9`; do touch b$f.txt; done
+ls
+exit
+cd prog/codechef
+touch CHMOD.cpp
+exit
+ls
+exit
+cd ~/
+cd prog/lang/unix
+ls
+chmod +x mkfile.sh
+./mkfile newfile.txt 'Line to be put in the fil'
+mkfile newfile.txt 'Line to be put in the file'
+sh mkfile newfile.txt 'Line to be put in the file'
+./mkfile.sh newfile.txt 'Line to be put in the file'
+! ls
+! rmdir
+help rmdir
+rmdir --help
+exit
+/usr/bin/pyhton
+/usr/bin/python
+file mlabel
+file mlocate
+file python
+file python2.7
+cmd=echo
+"${cmd}" Hello
+'${cmd}' Hello
+"$[cmd]" Hello
+echo $PATH
+echo $HOME
+vim mkfile.sh
+cd ~/
+cd prog/lang/unix
+vim mkfile.sh
+exit
+cd /usr/bin
+ls
+ls /usr/bin | grep python
+/bin/bash
+exit
+cd prog/lang/unix
+ls
+file backup.sh
+file vimbook-OPL.pdf
+file firewall-auth.html
+file newdir
+exit
+man git
+cd prog
+cd lang/git
+sudo apt-add-repository --remove  ppa:fs-icons-ubuntu/ppa 
+sudo apt-get update
+exit
+cd prog/lang/git
+ls
+git init CS251_assign_1
+cd CS251_assign_1
+git remove CS251_assign_1
+git --help
+cd ..
+git rm CS251_assign_1
+git rm CS251_assign_1.git
+rmdir CS251_assign_1
+cd /media/saurva
+cd /media/saurav
+ls
+cd OS
+cd Users
+cd DELL
+cd Desktop
+cd acads
+cd acad
+cd cs251
+cd sem3
+cd cs251
+git init CS251_assign_1
+cd CS251_assign_1
+git checkout --help
+git add .
+git log --graph --decorate --abbrev-commit
+git log --graph --decorate --abbrev-commit --all --pretty=online
+git user.name
+git user.name --help
+git commit -m "Added test codes in C,C++,python"
+haskell
+man haskell
+man hpc
+man ghc
+man fpc
+man gfortran
+git add README
+git commit -m "Added README"
+git log -4
+git config --global user.name "Saurav Shekhar"
+git log -2
+git branch --help
+git branch shekhar_edit
+git branch
+git checkout shekhar_edit
+git log -1 --author=sshekh
+git log -1 --pretty=medium
+git log -2 --stat
+git log -2 -p
+git master...shekhar_edit
+git log master...shekhar_edit
+
+git merge --help
+git --version
+ls -al
+git --tree | more
+tree .git | more
+git tree .git | more
+git status
+git
+git remote add origin https://github.com/sshekh/CS251_assign_1
+git add git_commands.sh
+git commit -m "Added Stanford git overview"
+git push -u origin master
+git update-server-inf
+mv README README.md
+
+git push -u origin shekhar_edit
+git merge shekhar_edit
+git log
+git push -u origin shekhar_edit
+git branch
+cut -c 8 - 25 `history` > git_cmd.sh
+cut -c 8-25 `history` > git_cmd.sh
+cut -c 8-25 | history > git_cmd.sh
