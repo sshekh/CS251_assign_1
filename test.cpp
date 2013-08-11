@@ -1,13 +1,14 @@
 #include<iostream>
+#include<cstdio>
 using namespace std;
 
 int main()
 {
 	int i;
-	cin>>i;
+	scanf("%d",&i);
 	while(i!=42){
-	    cout<<i;
-	    cin>>i;
+	    printf("%d\n",i);
+	    scanf("%d",&i);
 	}
 	return 0;
 }
