@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-	int i;
-	cin>>i;
+	int i;//taking input
+	cin>>i;		
 	while(i!=42){
 	    cout<<i;
 	    cin>>i;
